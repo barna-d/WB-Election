@@ -79,6 +79,9 @@ Source: [ADR India](https://adrindia.org/) (via CSV)
 ### 📈 Criminal Cases vs. Candidate Assets (Line Chart)
 ![Line Chart](assets/criminal_vs_assets_line.png)
 
+### 📈 Proportion of Criminal Cases by Education Level
+![Tree Map](assets/avgcrimebyedu.png)
+
 
 ---
 
