@@ -62,7 +62,9 @@ Source: [ADR India](https://adrindia.org/) (via CSV)
 ```
 /west-bengal-election-analysis/
 ├── west_bengal.csv               # Dataset (candidate-level info)
-├── election_analysis.ipynb      # Main analysis notebook (on Colab)
+├── westbengal.ipynb      # Main analysis notebook (on Colab)
+├── assets/
+│   └── criminal_distribution_pie.png.png  
 └── README.md                     # This file
 ```
 
